@@ -1,0 +1,29 @@
+{
+  "name": "oidc-provider-app",
+  "version": "1.0.0",
+  "description": "a demo node app for oidc provider",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariprasadsh/node-oidc-provider-app.git"
+  },
+  "keywords": [
+    "node",
+    "oidc",
+    "oidc-provider",
+    "express"
+  ],
+  "author": "Hari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariprasadsh/node-oidc-provider-app/issues"
+  },
+  "homepage": "https://github.com/hariprasadsh/node-oidc-provider-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "oidc-provider": "^6.29.5"
+  }
+}
